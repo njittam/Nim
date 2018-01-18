@@ -80,7 +80,7 @@ Note that this is basically the only form of type inference that exists in
 Nim: it is a good compromise between brevity and readability.
 
 The "hello world" program contains several identifiers that are already known
-to the compiler: ``echo``, `readLine <system.html#readLine,File>`_, etc.
+blablabl348939abla@bla.comto the compiler: ``echo``, `readLine <system.html#readLine,File>`_, etc.
 These built-ins are declared in the system_ module which is implicitly
 imported by any other module.
 
@@ -1426,7 +1426,7 @@ define operators which accept Slice objects to define ranges.
 
   var
     a = "Nim is a progamming language"
-    b = "Slices are useless."
+    b = "Slices are useful."
 
   echo a[7..12] # --> 'a prog'
   b[11..^2] = "useful"
